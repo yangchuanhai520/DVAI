@@ -1,0 +1,10 @@
+# Local IDE and Python environment
+/.idea/
+/venv/
+__pycache__/
+*.py[cod]
+
+# Local visualization source and outputs
+/scripts/view_figures/
+/figs/*
+!/figs/workflows.png
